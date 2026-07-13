@@ -1,0 +1,6 @@
+rm_yolo_ros2_ws/build
+rm_yolo_ros2_ws/install
+rm_yolo_ros2_ws/log
+**/.git
+**/__pycache__
+**/*.pyc

@@ -1,0 +1,449 @@
+2026-06-11 10:38:51 - libs.auxiliary - INFO: create folder eye_hand_data/data20260611
+2026-06-11 10:38:51 - libs.auxiliary - INFO: command:['ping', '-c', '1', '192.168.1.18']
+2026-06-11 10:38:51 - __main__ - INFO: robot_ip:192.168.1.18
+2026-06-11 10:38:51 - __main__ - INFO: response:{"change_work_frame":true,"command":"set_change_work_frame"}
+
+2026-06-11 10:38:51 - __main__ - INFO: 开始手眼标定程序，当前程序版号V1.0.0
+2026-06-11 10:38:51 - __main__ - INFO: 请先点击相机窗口，再按 S 采集，按 Q 或 ESC 退出
+2026-06-11 10:39:20 - libs.auxiliary - INFO: create folder eye_hand_data/data2026061101
+2026-06-11 10:39:20 - libs.auxiliary - INFO: command:['ping', '-c', '1', '192.168.1.18']
+2026-06-11 10:39:20 - __main__ - INFO: robot_ip:192.168.1.18
+2026-06-11 10:39:20 - __main__ - INFO: response:{"change_work_frame":true,"command":"set_change_work_frame"}
+
+2026-06-11 10:39:20 - __main__ - INFO: 开始手眼标定程序，当前程序版号V1.0.0
+2026-06-11 10:39:20 - __main__ - INFO: 请先点击相机窗口，再按 S 采集，按 Q 或 ESC 退出
+2026-06-11 10:41:17 - libs.auxiliary - INFO: create folder eye_hand_data/data2026061102
+2026-06-11 10:41:17 - libs.auxiliary - INFO: command:['ping', '-c', '1', '192.168.1.18']
+2026-06-11 10:41:17 - __main__ - INFO: robot_ip:192.168.1.18
+2026-06-11 10:41:17 - __main__ - INFO: response:{"change_work_frame":true,"command":"set_change_work_frame"}
+
+2026-06-11 10:41:18 - __main__ - INFO: 开始手眼标定程序，当前程序版号V1.0.0
+2026-06-11 10:41:18 - __main__ - INFO: 请先点击相机窗口，再按 S 采集，按 Q 或 ESC 退出
+2026-06-11 10:42:58 - __main__ - INFO: 检测到按键，keycode=115
+2026-06-11 10:42:58 - __main__ - INFO: response:{"command":"start_drag_teach","drag_teach":true}
+{"command":"stop_drag_teach","drag_teach":true}
+{"arm_state":{"err":[0],"joint":[92713,-60151,108595,124289,-112924,-60520],"pose":[-112166,52051,414096,2321,324,-1165]},"state":"current_arm_state"}
+
+2026-06-11 10:42:58 - __main__ - INFO: 获取状态：成功，当前位姿为[-0.112166, 0.052051, 0.414096, 2.321, 0.324, -1.165]
+2026-06-11 10:42:58 - __main__ - INFO: ===采集第1次数据！
+2026-06-11 10:43:20 - __main__ - INFO: 检测到按键，keycode=115
+2026-06-11 10:43:20 - __main__ - INFO: response:{"command":"start_drag_teach","drag_teach":true}
+{"command":"stop_drag_teach","drag_teach":true}
+{"arm_state":{"err":[0],"joint":[92715,-60147,108583,144486,-113755,-60516],"pose":[-78234,33462,388499,2571,201,-872]},"state":"current_arm_state"}
+
+2026-06-11 10:43:20 - __main__ - INFO: 获取状态：成功，当前位姿为[-0.078234, 0.033462, 0.388499, 2.571, 0.201, -0.872]
+2026-06-11 10:43:20 - __main__ - INFO: ===采集第2次数据！
+2026-06-11 10:43:35 - __main__ - INFO: 检测到按键，keycode=115
+2026-06-11 10:43:35 - __main__ - INFO: response:{"command":"start_drag_teach","drag_teach":true}
+{"command":"stop_drag_teach","drag_teach":true}
+{"arm_state":{"err":[0],"joint":[92359,-22887,107392,124519,-106024,-60516],"pose":[-110753,-82041,414576,2592,840,-920]},"state":"current_arm_state"}
+
+2026-06-11 10:43:35 - __main__ - INFO: 获取状态：成功，当前位姿为[-0.110753, -0.082041, 0.414576, 2.592, 0.84, -0.92]
+2026-06-11 10:43:35 - __main__ - INFO: ===采集第3次数据！
+2026-06-11 10:44:15 - __main__ - INFO: 检测到按键，keycode=194
+2026-06-11 10:44:39 - __main__ - INFO: 检测到按键，keycode=53
+2026-06-11 10:45:13 - __main__ - INFO: 检测到按键，keycode=27
+2026-06-11 10:45:13 - __main__ - INFO: 收到退出按键，结束采集
+2026-06-11 11:34:34 - libs.auxiliary - INFO: create folder eye_hand_data/data20260611
+2026-06-11 11:34:34 - libs.auxiliary - INFO: command:['ping', '-c', '1', '192.168.1.18']
+2026-06-11 11:34:34 - __main__ - INFO: robot_ip:192.168.1.18
+2026-06-11 11:34:35 - __main__ - INFO: response:{"change_work_frame":true,"command":"set_change_work_frame"}
+
+2026-06-11 11:34:35 - __main__ - INFO: 开始手眼标定程序，当前程序版号V1.0.0
+2026-06-11 11:34:35 - __main__ - INFO: 请先点击相机窗口，再按 S 采集，按 Q 或 ESC 退出
+2026-06-11 11:35:03 - __main__ - INFO: 检测到按键，keycode=115
+2026-06-11 11:35:03 - __main__ - INFO: response:{"command":"start_drag_teach","drag_teach":true}
+{"command":"stop_drag_teach","drag_teach":true}
+{"arm_state":{"err":[0],"joint":[4408,52179,-9960,12650,120381,-2],"pose":[-380937,-56653,417613,2986,312,193]},"state":"current_arm_state"}
+
+2026-06-11 11:35:03 - __main__ - INFO: 获取状态：成功，当前位姿为[-0.380937, -0.056653, 0.417613, 2.986, 0.312, 0.193]
+2026-06-11 11:35:03 - __main__ - INFO: ===采集第1次数据！
+2026-06-11 11:35:12 - __main__ - INFO: 检测到按键，keycode=115
+2026-06-11 11:35:12 - __main__ - INFO: response:{"command":"start_drag_teach","drag_teach":true}
+{"command":"stop_drag_teach","drag_teach":true}
+{"arm_state":{"err":[0],"joint":[560,38063,-5685,-6407,122680,-4],"pose":[-330490,10295,489243,-3075,437,-56]},"state":"current_arm_state"}
+
+2026-06-11 11:35:12 - __main__ - INFO: 获取状态：成功，当前位姿为[-0.33049, 0.010295, 0.489243, -3.075, 0.437, -0.056]
+2026-06-11 11:35:12 - __main__ - INFO: ===采集第2次数据！
+2026-06-11 11:35:23 - __main__ - INFO: 检测到按键，keycode=115
+2026-06-11 11:35:23 - __main__ - INFO: response:{"command":"start_drag_teach","drag_teach":true}
+{"command":"stop_drag_teach","drag_teach":true}
+{"command":"start_drag_teach","drag_teach":true}
+{"command":"stop_drag_teach","drag_teach":true}
+{"arm_state":{"err":[0],"joint":[-2481,38060,-5682,21603,122654,-76],"pose":[-325499,-30572,493433,2920,458,181]},"state":"current_arm_state"}
+
+2026-06-11 11:35:23 - __main__ - INFO: 获取状态：成功，当前位姿为[-0.325499, -0.030572, 0.493433, 2.92, 0.458, 0.181]
+2026-06-11 11:35:23 - __main__ - INFO: ===采集第3次数据！
+2026-06-11 11:35:33 - __main__ - INFO: 检测到按键，keycode=115
+2026-06-11 11:35:33 - __main__ - INFO: response:{"command":"start_drag_teach","drag_teach":true}
+{"command":"stop_drag_teach","drag_teach":true}
+{"arm_state":{"err":[0],"joint":[-21939,38058,-5680,21592,122674,61398],"pose":[-317036,79614,493413,2637,38,-1189]},"state":"current_arm_state"}
+
+2026-06-11 11:35:33 - __main__ - INFO: 获取状态：成功，当前位姿为[-0.317036, 0.079614, 0.493413, 2.637, 0.038, -1.189]
+2026-06-11 11:35:33 - __main__ - INFO: ===采集第4次数据！
+2026-06-11 11:35:48 - __main__ - INFO: 检测到按键，keycode=115
+2026-06-11 11:35:48 - __main__ - INFO: response:{"command":"start_drag_teach","drag_teach":true}
+{"command":"stop_drag_teach","drag_teach":true}
+{"arm_state":{"err":[0],"joint":[-24071,23985,20842,25970,109856,61331],"pose":[-301744,69836,502800,2564,-54,-1221]},"state":"current_arm_state"}
+
+2026-06-11 11:35:48 - __main__ - INFO: 获取状态：成功，当前位姿为[-0.301744, 0.069836, 0.5028, 2.564, -0.054, -1.221]
+2026-06-11 11:35:48 - __main__ - INFO: ===采集第5次数据！
+2026-06-11 11:35:59 - __main__ - INFO: 检测到按键，keycode=115
+2026-06-11 11:35:59 - __main__ - INFO: response:{"command":"start_drag_teach","drag_teach":true}
+{"command":"stop_drag_teach","drag_teach":true}
+{"arm_state":{"err":[0],"joint":[16402,39883,20170,-16721,113451,61336],"pose":[-355713,-65088,403534,3149,283,-915]},"state":"current_arm_state"}
+
+2026-06-11 11:35:59 - __main__ - INFO: 获取状态：成功，当前位姿为[-0.355713, -0.065088, 0.403534, 3.149, 0.283, -0.915]
+2026-06-11 11:35:59 - __main__ - INFO: ===采集第6次数据！
+2026-06-11 11:36:06 - __main__ - INFO: 检测到按键，keycode=115
+2026-06-11 11:36:06 - __main__ - INFO: response:{"command":"start_drag_teach","drag_teach":true}
+{"command":"stop_drag_teach","drag_teach":true}
+{"arm_state":{"err":[0],"joint":[27198,35944,20158,-25342,102882,61239],"pose":[-355383,-115072,441661,2957,515,-823]},"state":"current_arm_state"}
+
+2026-06-11 11:36:06 - __main__ - INFO: 获取状态：成功，当前位姿为[-0.355383, -0.115072, 0.441661, 2.957, 0.515, -0.823]
+2026-06-11 11:36:06 - __main__ - INFO: ===采集第7次数据！
+2026-06-11 11:36:15 - __main__ - INFO: 检测到按键，keycode=115
+2026-06-11 11:36:15 - __main__ - INFO: response:{"command":"start_drag_teach","drag_teach":true}
+{"command":"stop_drag_teach","drag_teach":true}
+{"arm_state":{"err":[0],"joint":[49593,35959,29144,-47121,113621,61262],"pose":[-285107,-185771,430397,-2877,706,-460]},"state":"current_arm_state"}
+
+2026-06-11 11:36:15 - __main__ - INFO: 获取状态：成功，当前位姿为[-0.285107, -0.185771, 0.430397, -2.877, 0.706, -0.46]
+2026-06-11 11:36:15 - __main__ - INFO: ===采集第8次数据！
+2026-06-11 11:36:29 - __main__ - INFO: 检测到按键，keycode=115
+2026-06-11 11:36:29 - __main__ - INFO: response:{"command":"start_drag_teach","drag_teach":true}
+{"command":"stop_drag_teach","drag_teach":true}
+{"arm_state":{"err":[0],"joint":[63543,22204,29830,-32424,114050,61277],"pose":[-189796,-223135,483089,3081,535,-276]},"state":"current_arm_state"}
+
+2026-06-11 11:36:29 - __main__ - INFO: 获取状态：成功，当前位姿为[-0.189796, -0.223135, 0.483089, 3.081, 0.535, -0.276]
+2026-06-11 11:36:29 - __main__ - INFO: ===采集第9次数据！
+2026-06-11 11:36:43 - __main__ - INFO: 检测到按键，keycode=115
+2026-06-11 11:36:43 - __main__ - INFO: response:{"command":"start_drag_teach","drag_teach":true}
+{"command":"stop_drag_teach","drag_teach":true}
+{"arm_state":{"err":[0],"joint":[35448,27265,38888,-28781,113926,61280],"pose":[-283241,-123858,423827,-2951,419,-617]},"state":"current_arm_state"}
+
+2026-06-11 11:36:43 - __main__ - INFO: 获取状态：成功，当前位姿为[-0.283241, -0.123858, 0.423827, -2.951, 0.419, -0.617]
+2026-06-11 11:36:43 - __main__ - INFO: ===采集第10次数据！
+2026-06-11 11:36:50 - __main__ - INFO: 检测到按键，keycode=115
+2026-06-11 11:36:50 - __main__ - INFO: response:{"command":"start_drag_teach","drag_teach":true}
+{"command":"stop_drag_teach","drag_teach":true}
+{"arm_state":{"err":[0],"joint":[-14703,22188,35923,7171,113925,61276],"pose":[-288919,58829,446739,2965,-25,-1265]},"state":"current_arm_state"}
+
+2026-06-11 11:36:50 - __main__ - INFO: 获取状态：成功，当前位姿为[-0.288919, 0.058829, 0.446739, 2.965, -0.025, -1.265]
+2026-06-11 11:36:50 - __main__ - INFO: ===采集第11次数据！
+2026-06-11 11:37:09 - __main__ - INFO: 检测到按键，keycode=115
+2026-06-11 11:37:09 - __main__ - INFO: response:{"command":"start_drag_teach","drag_teach":true}
+{"command":"stop_drag_teach","drag_teach":true}
+{"arm_state":{"err":[0],"joint":[-42757,30864,43479,28313,94519,61182],"pose":[-308137,192183,392162,2711,-307,-1657]},"state":"current_arm_state"}
+
+2026-06-11 11:37:09 - __main__ - INFO: 获取状态：成功，当前位姿为[-0.308137, 0.192183, 0.392162, 2.711, -0.307, -1.657]
+2026-06-11 11:37:09 - __main__ - INFO: ===采集第12次数据！
+2026-06-11 11:37:25 - __main__ - INFO: 检测到按键，keycode=115
+2026-06-11 11:37:25 - __main__ - INFO: response:{"command":"start_drag_teach","drag_teach":true}
+{"command":"stop_drag_teach","drag_teach":true}
+{"arm_state":{"err":[0],"joint":[-42721,40795,43490,28289,91859,61052],"pose":[-328520,210534,328645,2822,-387,-1714]},"state":"current_arm_state"}
+
+2026-06-11 11:37:25 - __main__ - INFO: 获取状态：成功，当前位姿为[-0.32852, 0.210534, 0.328645, 2.822, -0.387, -1.714]
+2026-06-11 11:37:25 - __main__ - INFO: ===采集第13次数据！
+2026-06-11 11:37:42 - __main__ - INFO: 检测到按键，keycode=115
+2026-06-11 11:37:42 - __main__ - INFO: response:{"command":"start_drag_teach","drag_teach":true}
+{"command":"stop_drag_teach","drag_teach":true}
+{"arm_state":{"err":[0],"joint":[-21765,25786,43466,13759,87013,61044],"pose":[-350959,103299,417439,2665,0,-1407]},"state":"current_arm_state"}
+
+2026-06-11 11:37:42 - __main__ - INFO: 获取状态：成功，当前位姿为[-0.350959, 0.103299, 0.417439, 2.665, 0.0, -1.407]
+2026-06-11 11:37:42 - __main__ - INFO: ===采集第14次数据！
+2026-06-11 11:37:54 - __main__ - INFO: 检测到按键，keycode=115
+2026-06-11 11:37:54 - __main__ - INFO: response:{"command":"start_drag_teach","drag_teach":true}
+{"command":"stop_drag_teach","drag_teach":true}
+{"command":"start_drag_teach","drag_teach":true}
+{"command":"stop_drag_teach","drag_teach":true}
+{"arm_state":{"err":[0],"joint":[14970,10899,43485,-13323,114031,61129],"pose":[-245461,-34260,475983,3044,268,-935]},"state":"current_arm_state"}
+
+2026-06-11 11:37:54 - __main__ - INFO: 获取状态：成功，当前位姿为[-0.245461, -0.03426, 0.475983, 3.044, 0.268, -0.935]
+2026-06-11 11:37:54 - __main__ - INFO: ===采集第15次数据！
+2026-06-11 11:38:00 - __main__ - INFO: 检测到按键，keycode=115
+2026-06-11 11:38:00 - __main__ - INFO: response:{"command":"start_drag_teach","drag_teach":true}
+{"command":"stop_drag_teach","drag_teach":true}
+{"arm_state":{"err":[0],"joint":[14919,10909,43490,-6424,101004,61127],"pose":[-273299,-56450,483905,2800,284,-901]},"state":"current_arm_state"}
+
+2026-06-11 11:38:00 - __main__ - INFO: 获取状态：成功，当前位姿为[-0.273299, -0.05645, 0.483905, 2.8, 0.284, -0.901]
+2026-06-11 11:38:00 - __main__ - INFO: ===采集第16次数据！
+2026-06-11 11:38:10 - __main__ - INFO: 检测到按键，keycode=115
+2026-06-11 11:38:10 - __main__ - INFO: response:{"command":"start_drag_teach","drag_teach":true}
+{"command":"stop_drag_teach","drag_teach":true}
+{"command":"start_drag_teach","drag_teach":true}
+{"command":"stop_drag_teach","drag_teach":true}
+{"command":"start_drag_teach","drag_teach":true}
+{"command":"stop_drag_teach","drag_teach":true}
+{"arm_state":{"err":[0],"joint":[6514,28261,43499,-6407,84041,61127],"pose":[-378770,-27167,401217,2814,294,-1014]},"state":"current_arm_state"}
+
+2026-06-11 11:38:10 - __main__ - INFO: 获取状态：成功，当前位姿为[-0.37877, -0.027167, 0.401217, 2.814, 0.294, -1.014]
+2026-06-11 11:38:10 - __main__ - INFO: ===采集第17次数据！
+2026-06-11 11:38:22 - __main__ - INFO: 检测到按键，keycode=115
+2026-06-11 11:38:23 - __main__ - INFO: response:{"command":"start_drag_teach","drag_teach":true}
+{"command":"stop_drag_teach","drag_teach":true}
+{"arm_state":{"err":[0],"joint":[-49272,28263,43503,29903,101547,61126],"pose":[-269637,205375,406504,2756,-353,-1719]},"state":"current_arm_state"}
+
+2026-06-11 11:38:23 - __main__ - INFO: 获取状态：成功，当前位姿为[-0.269637, 0.205375, 0.406504, 2.756, -0.353, -1.719]
+2026-06-11 11:38:23 - __main__ - INFO: ===采集第18次数据！
+2026-06-11 11:38:28 - __main__ - INFO: 检测到按键，keycode=113
+2026-06-11 11:38:28 - __main__ - INFO: 收到退出按键，结束采集
+2026-06-11 11:40:37 - __main__ - INFO: 读 eye_hand_data/data20260611/1.jpg
+2026-06-11 11:40:37 - __main__ - INFO: 读 eye_hand_data/data20260611/2.jpg
+2026-06-11 11:40:37 - __main__ - INFO: 读 eye_hand_data/data20260611/3.jpg
+2026-06-11 11:40:37 - __main__ - INFO: 读 eye_hand_data/data20260611/4.jpg
+2026-06-11 11:40:37 - __main__ - INFO: 读 eye_hand_data/data20260611/5.jpg
+2026-06-11 11:40:37 - __main__ - INFO: 读 eye_hand_data/data20260611/6.jpg
+2026-06-11 11:40:37 - __main__ - INFO: 读 eye_hand_data/data20260611/7.jpg
+2026-06-11 11:40:37 - __main__ - INFO: 读 eye_hand_data/data20260611/8.jpg
+2026-06-11 11:40:37 - __main__ - INFO: 读 eye_hand_data/data20260611/9.jpg
+2026-06-11 11:40:37 - __main__ - INFO: 读 eye_hand_data/data20260611/10.jpg
+2026-06-11 11:40:37 - __main__ - INFO: 读 eye_hand_data/data20260611/11.jpg
+2026-06-11 11:40:37 - __main__ - INFO: 读 eye_hand_data/data20260611/12.jpg
+2026-06-11 11:40:37 - __main__ - INFO: 读 eye_hand_data/data20260611/13.jpg
+2026-06-11 11:40:37 - __main__ - INFO: 读 eye_hand_data/data20260611/14.jpg
+2026-06-11 11:40:37 - __main__ - INFO: 读 eye_hand_data/data20260611/15.jpg
+2026-06-11 11:40:37 - __main__ - INFO: 读 eye_hand_data/data20260611/16.jpg
+2026-06-11 11:40:38 - __main__ - INFO: 读 eye_hand_data/data20260611/17.jpg
+2026-06-11 11:40:38 - __main__ - INFO: 读 eye_hand_data/data20260611/18.jpg
+2026-06-11 11:40:38 - __main__ - INFO: 旋转矩阵是:
+ [[-0.00565907 -0.99995353 -0.00780429]
+ [ 0.99990732 -0.00556182 -0.01242624]
+ [ 0.01238226 -0.00787389  0.99989233]]
+2026-06-11 11:40:38 - __main__ - INFO: 平移向量是:
+ [[ 0.09110832]
+ [-0.03482896]
+ [ 0.02311882]]
+2026-06-11 11:40:38 - __main__ - INFO: 四元数是：
+ [ 0.00161408 -0.00715732  0.70906862  0.70510131]
+2026-06-11 07:53:56 - __main__ - INFO: 读 eye_hand_data/data20260611/1.jpg
+2026-06-11 07:53:56 - __main__ - INFO: 读 eye_hand_data/data20260611/2.jpg
+2026-06-11 07:53:56 - __main__ - INFO: 读 eye_hand_data/data20260611/3.jpg
+2026-06-11 07:53:56 - __main__ - INFO: 读 eye_hand_data/data20260611/4.jpg
+2026-06-11 07:53:56 - __main__ - INFO: 读 eye_hand_data/data20260611/5.jpg
+2026-06-11 07:53:56 - __main__ - INFO: 读 eye_hand_data/data20260611/6.jpg
+2026-06-11 07:53:56 - __main__ - INFO: 读 eye_hand_data/data20260611/7.jpg
+2026-06-11 07:53:56 - __main__ - INFO: 读 eye_hand_data/data20260611/8.jpg
+2026-06-11 07:53:56 - __main__ - INFO: 读 eye_hand_data/data20260611/9.jpg
+2026-06-11 07:53:56 - __main__ - INFO: 读 eye_hand_data/data20260611/10.jpg
+2026-06-11 07:53:56 - __main__ - INFO: 读 eye_hand_data/data20260611/11.jpg
+2026-06-11 07:53:56 - __main__ - INFO: 读 eye_hand_data/data20260611/12.jpg
+2026-06-11 07:53:56 - __main__ - INFO: 读 eye_hand_data/data20260611/13.jpg
+2026-06-11 07:53:56 - __main__ - INFO: 读 eye_hand_data/data20260611/14.jpg
+2026-06-11 07:53:56 - __main__ - INFO: 读 eye_hand_data/data20260611/15.jpg
+2026-06-11 07:53:56 - __main__ - INFO: 读 eye_hand_data/data20260611/16.jpg
+2026-06-11 07:53:56 - __main__ - INFO: 读 eye_hand_data/data20260611/17.jpg
+2026-06-11 07:53:56 - __main__ - INFO: 读 eye_hand_data/data20260611/18.jpg
+2026-06-11 07:53:58 - __main__ - INFO: 旋转矩阵是:
+ [[-0.00565887 -0.99995353 -0.00780433]
+ [ 0.99990733 -0.00556163 -0.01242597]
+ [ 0.01238199 -0.00787392  0.99989234]]
+2026-06-11 07:53:58 - __main__ - INFO: 平移向量是:
+ [[ 0.09110831]
+ [-0.03482909]
+ [ 0.02311902]]
+2026-06-11 07:53:58 - __main__ - INFO: 四元数是：
+ [ 0.00161397 -0.00715724  0.70906855  0.70510138]
+2026-07-08 19:03:30 - libs.auxiliary - INFO: create folder eye_hand_data/data20260708
+2026-07-08 19:03:30 - libs.auxiliary - INFO: command:['ping', '-c', '1', '192.168.1.18']
+2026-07-08 19:03:30 - __main__ - INFO: robot_ip:192.168.1.18
+2026-07-08 19:03:30 - __main__ - INFO: response:{"change_work_frame":true,"command":"set_change_work_frame"}
+
+2026-07-08 19:03:45 - __main__ - ERROR: 相机连接异常：No device connected
+2026-07-08 19:04:40 - libs.auxiliary - INFO: create folder eye_hand_data/data2026070801
+2026-07-08 19:04:40 - libs.auxiliary - INFO: command:['ping', '-c', '1', '192.168.1.18']
+2026-07-08 19:04:40 - __main__ - INFO: robot_ip:192.168.1.18
+2026-07-08 19:04:40 - __main__ - INFO: response:{"change_work_frame":true,"command":"set_change_work_frame"}
+
+2026-07-08 19:04:40 - __main__ - INFO: 开始手眼标定程序，当前程序版号V1.0.0
+2026-07-08 19:04:40 - __main__ - INFO: 请先点击相机窗口，再按 S 采集，按 Q 或 ESC 退出
+2026-07-08 19:04:58 - __main__ - INFO: 检测到按键，keycode=115
+2026-07-08 19:04:58 - __main__ - INFO: response:{"arm_state":{"err":[0],"joint":[11655,27368,86103,-8988,83825,178140],"pose":[-267180,-32274,248326,3001,307,-2886]},"state":"current_arm_state"}
+
+2026-07-08 19:04:58 - __main__ - INFO: 获取状态：成功，当前位姿为[-0.26718, -0.032274, 0.248326, 3.001, 0.307, -2.886]
+2026-07-08 19:04:58 - __main__ - INFO: ===采集第1次数据！
+2026-07-08 19:04:59 - __main__ - INFO: 检测到按键，keycode=115
+2026-07-08 19:04:59 - __main__ - INFO: response:{"arm_state":{"err":[0],"joint":[11653,27368,86102,-8988,83824,178137],"pose":[-267190,-32269,248329,3001,307,-2886]},"state":"current_arm_state"}
+
+2026-07-08 19:04:59 - __main__ - INFO: 获取状态：成功，当前位姿为[-0.26719, -0.032269, 0.248329, 3.001, 0.307, -2.886]
+2026-07-08 19:04:59 - __main__ - INFO: ===采集第2次数据！
+2026-07-08 19:04:59 - __main__ - INFO: 检测到按键，keycode=115
+2026-07-08 19:04:59 - __main__ - INFO: response:{"arm_state":{"err":[0],"joint":[11652,27369,86101,-8986,83823,178140],"pose":[-267198,-32268,248325,3001,307,-2886]},"state":"current_arm_state"}
+
+2026-07-08 19:04:59 - __main__ - INFO: 获取状态：成功，当前位姿为[-0.267198, -0.032268, 0.248325, 3.001, 0.307, -2.886]
+2026-07-08 19:04:59 - __main__ - INFO: ===采集第3次数据！
+2026-07-08 19:04:59 - __main__ - INFO: 检测到按键，keycode=115
+2026-07-08 19:04:59 - __main__ - INFO: response:{"arm_state":{"err":[0],"joint":[11653,27365,86102,-8989,83824,178139],"pose":[-267190,-32266,248343,3000,307,-2886]},"state":"current_arm_state"}
+
+2026-07-08 19:04:59 - __main__ - INFO: 获取状态：成功，当前位姿为[-0.26719, -0.032266, 0.248343, 3.0, 0.307, -2.886]
+2026-07-08 19:04:59 - __main__ - INFO: ===采集第4次数据！
+2026-07-08 19:06:05 - __main__ - INFO: 检测到按键，keycode=115
+2026-07-08 19:06:05 - __main__ - INFO: response:{"arm_state":{"err":[0],"joint":[2242,28449,58134,-12230,108566,163998],"pose":[-294667,17400,342198,3001,307,-2886]},"state":"current_arm_state"}
+
+2026-07-08 19:06:05 - __main__ - INFO: 获取状态：成功，当前位姿为[-0.294667, 0.0174, 0.342198, 3.001, 0.307, -2.886]
+2026-07-08 19:06:05 - __main__ - INFO: ===采集第5次数据！
+2026-07-08 19:07:02 - __main__ - INFO: 检测到按键，keycode=227
+2026-07-08 19:07:07 - libs.auxiliary - INFO: create folder eye_hand_data/data2026070802
+2026-07-08 19:07:07 - libs.auxiliary - INFO: command:['ping', '-c', '1', '192.168.1.18']
+2026-07-08 19:07:07 - __main__ - INFO: robot_ip:192.168.1.18
+2026-07-08 19:07:07 - __main__ - INFO: response:{"change_work_frame":true,"command":"set_change_work_frame"}
+
+2026-07-08 19:07:08 - __main__ - INFO: 开始手眼标定程序，当前程序版号V1.0.0
+2026-07-08 19:07:08 - __main__ - INFO: 请先点击相机窗口，再按 S 采集，按 Q 或 ESC 退出
+2026-07-08 19:07:13 - __main__ - INFO: 检测到按键，keycode=115
+2026-07-08 19:07:13 - __main__ - INFO: response:{"arm_state":{"err":[0],"joint":[2243,28449,58135,-12229,108564,163999],"pose":[-294671,17391,342192,3001,307,-2886]},"state":"current_arm_state"}
+
+2026-07-08 19:07:13 - __main__ - INFO: 获取状态：成功，当前位姿为[-0.294671, 0.017391, 0.342192, 3.001, 0.307, -2.886]
+2026-07-08 19:07:13 - __main__ - INFO: ===采集第1次数据！
+2026-07-08 19:07:57 - __main__ - INFO: 检测到按键，keycode=115
+2026-07-08 19:07:58 - __main__ - INFO: response:{"device":0,"state":"current_trajectory_state","trajectory_connect":0,"trajectory_state":false}
+{"command":"start_drag_teach","drag_teach":true}
+{"arm_state":{"err":[0],"joint":[31220,15788,55652,-24602,105953,53883],"pose":[-261870,-91319,421743,-2950,367,-489]},"state":"current_arm_state"}
+
+2026-07-08 19:07:58 - __main__ - INFO: 获取状态：成功，当前位姿为[-0.26187, -0.091319, 0.421743, -2.95, 0.367, -0.489]
+2026-07-08 19:07:58 - __main__ - INFO: ===采集第2次数据！
+2026-07-08 19:11:18 - __main__ - INFO: 检测到按键，keycode=115
+2026-07-08 19:11:18 - __main__ - INFO: response:{"command":"stop_drag_teach","drag_teach":true}
+{"command":"start_drag_teach","drag_teach":true}
+{"command":"stop_drag_teach","drag_teach":true}
+{"arm_state":{"err":[0],"joint":[-61696,25230,54838,27684,101523,54319],"pose":[-204315,241143,380263,2854,-384,-1876]},"state":"current_arm_state"}
+
+2026-07-08 19:11:18 - __main__ - INFO: 获取状态：成功，当前位姿为[-0.204315, 0.241143, 0.380263, 2.854, -0.384, -1.876]
+2026-07-08 19:11:18 - __main__ - INFO: ===采集第3次数据！
+2026-07-08 19:11:59 - __main__ - INFO: 检测到按键，keycode=115
+2026-07-08 19:11:59 - __main__ - INFO: response:{"command":"start_drag_teach","drag_teach":true}
+{"command":"stop_drag_teach","drag_teach":true}
+{"arm_state":{"err":[0],"joint":[-26780,-44766,110840,9523,70021,54733],"pose":[-108983,29923,405374,2399,277,-1525]},"state":"current_arm_state"}
+
+2026-07-08 19:11:59 - __main__ - INFO: 获取状态：成功，当前位姿为[-0.108983, 0.029923, 0.405374, 2.399, 0.277, -1.525]
+2026-07-08 19:11:59 - __main__ - INFO: ===采集第4次数据！
+2026-07-08 19:12:43 - __main__ - INFO: 检测到按键，keycode=115
+2026-07-08 19:12:43 - __main__ - INFO: response:{"command":"start_drag_teach","drag_teach":true}
+{"command":"stop_drag_teach","drag_teach":true}
+{"command":"start_drag_teach","drag_teach":true}
+{"command":"stop_drag_teach","drag_teach":true}
+{"arm_state":{"err":[0],"joint":[37543,10850,52553,-32810,113009,54743],"pose":[-230500,-86564,461131,-2933,482,-494]},"state":"current_arm_state"}
+
+2026-07-08 19:12:43 - __main__ - INFO: 获取状态：成功，当前位姿为[-0.2305, -0.086564, 0.461131, -2.933, 0.482, -0.494]
+2026-07-08 19:12:43 - __main__ - INFO: ===采集第5次数据！
+2026-07-08 19:13:38 - __main__ - INFO: 检测到按键，keycode=115
+2026-07-08 19:13:38 - __main__ - INFO: response:{"command":"start_drag_teach","drag_teach":true}
+{"command":"stop_drag_teach","drag_teach":true}
+{"command":"start_drag_teach","drag_teach":true}
+{"command":"stop_drag_teach","drag_teach":true}
+{"command":"start_drag_teach","drag_teach":true}
+{"command":"stop_drag_teach","drag_teach":true}
+{"command":"start_drag_teach","drag_teach":true}
+{"command":"stop_drag_teach","drag_teach":true}
+{"command":"start_drag_teach","drag_teach":true}
+{"command":"stop_drag_teach","drag_teach":true}
+{"arm_state":{"err":[0],"joint":[37364,32286,54279,-27339,96786,54735],"pose":[-307688,-152317,341690,-2813,355,-287]},"state":"current_arm_state"}
+
+2026-07-08 19:13:38 - __main__ - INFO: 获取状态：成功，当前位姿为[-0.307688, -0.152317, 0.34169, -2.813, 0.355, -0.287]
+2026-07-08 19:13:38 - __main__ - INFO: ===采集第6次数据！
+2026-07-08 19:13:57 - __main__ - INFO: 检测到按键，keycode=115
+2026-07-08 19:13:57 - __main__ - INFO: response:{"command":"start_drag_teach","drag_teach":true}
+{"command":"stop_drag_teach","drag_teach":true}
+{"arm_state":{"err":[0],"joint":[20747,-32858,114845,-10865,63273,41639],"pose":[-149599,-30745,368769,2859,575,-416]},"state":"current_arm_state"}
+
+2026-07-08 19:13:57 - __main__ - INFO: 获取状态：成功，当前位姿为[-0.149599, -0.030745, 0.368769, 2.859, 0.575, -0.416]
+2026-07-08 19:13:57 - __main__ - INFO: ===采集第7次数据！
+2026-07-08 19:14:11 - __main__ - INFO: 检测到按键，keycode=115
+2026-07-08 19:14:11 - __main__ - INFO: response:{"command":"start_drag_teach","drag_teach":true}
+{"command":"stop_drag_teach","drag_teach":true}
+{"command":"start_drag_teach","drag_teach":true}
+{"command":"stop_drag_teach","drag_teach":true}
+{"command":"start_drag_teach","drag_teach":true}
+{"command":"stop_drag_teach","drag_teach":true}
+{"arm_state":{"err":[0],"joint":[-85403,-149,92077,34069,93335,41636],"pose":[-96047,189745,370702,2725,-447,-2113]},"state":"current_arm_state"}
+
+2026-07-08 19:14:11 - __main__ - INFO: 获取状态：成功，当前位姿为[-0.096047, 0.189745, 0.370702, 2.725, -0.447, -2.113]
+2026-07-08 19:14:11 - __main__ - INFO: ===采集第8次数据！
+2026-07-08 19:14:22 - __main__ - INFO: 检测到按键，keycode=115
+2026-07-08 19:14:22 - __main__ - INFO: response:{"command":"start_drag_teach","drag_teach":true}
+{"command":"stop_drag_teach","drag_teach":true}
+{"arm_state":{"err":[0],"joint":[-100424,28296,98445,23100,91740,41638],"pose":[-18096,213732,236808,-2899,-737,-2703]},"state":"current_arm_state"}
+
+2026-07-08 19:14:22 - __main__ - INFO: 获取状态：成功，当前位姿为[-0.018096, 0.213732, 0.236808, -2.899, -0.737, -2.703]
+2026-07-08 19:14:22 - __main__ - INFO: ===采集第9次数据！
+2026-07-08 19:14:47 - __main__ - INFO: 检测到按键，keycode=115
+2026-07-08 19:14:47 - __main__ - INFO: response:{"command":"start_drag_teach","drag_teach":true}
+{"command":"stop_drag_teach","drag_teach":true}
+{"command":"start_drag_teach","drag_teach":true}
+{"command":"stop_drag_teach","drag_teach":true}
+{"arm_state":{"err":[0],"joint":[-57293,-49125,122529,17740,79142,41654],"pose":[-75242,37424,346670,2589,144,-1751]},"state":"current_arm_state"}
+
+2026-07-08 19:14:47 - __main__ - INFO: 获取状态：成功，当前位姿为[-0.075242, 0.037424, 0.34667, 2.589, 0.144, -1.751]
+2026-07-08 19:14:47 - __main__ - INFO: ===采集第10次数据！
+2026-07-08 19:15:16 - __main__ - INFO: 检测到按键，keycode=115
+2026-07-08 19:15:16 - __main__ - INFO: response:{"command":"start_drag_teach","drag_teach":true}
+{"command":"stop_drag_teach","drag_teach":true}
+{"arm_state":{"err":[0],"joint":[38401,26518,50177,-27887,105584,41657],"pose":[-282636,-141238,389682,-2770,299,-123]},"state":"current_arm_state"}
+
+2026-07-08 19:15:16 - __main__ - INFO: 获取状态：成功，当前位姿为[-0.282636, -0.141238, 0.389682, -2.77, 0.299, -0.123]
+2026-07-08 19:15:16 - __main__ - INFO: ===采集第11次数据！
+2026-07-08 19:15:31 - __main__ - INFO: 检测到按键，keycode=115
+2026-07-08 19:15:31 - __main__ - INFO: response:{"command":"start_drag_teach","drag_teach":true}
+{"command":"stop_drag_teach","drag_teach":true}
+{"command":"start_drag_teach","drag_teach":true}
+{"command":"stop_drag_teach","drag_teach":true}
+{"arm_state":{"err":[0],"joint":[-40656,13759,45598,24150,107023,41650],"pose":[-241023,132735,466603,2692,-41,-1253]},"state":"current_arm_state"}
+
+2026-07-08 19:15:31 - __main__ - INFO: 获取状态：成功，当前位姿为[-0.241023, 0.132735, 0.466603, 2.692, -0.041, -1.253]
+2026-07-08 19:15:31 - __main__ - INFO: ===采集第12次数据！
+2026-07-08 19:15:55 - __main__ - INFO: 检测到按键，keycode=115
+2026-07-08 19:15:55 - __main__ - INFO: response:{"command":"start_drag_teach","drag_teach":true}
+{"command":"stop_drag_teach","drag_teach":true}
+{"command":"start_drag_teach","drag_teach":true}
+{"command":"stop_drag_teach","drag_teach":true}
+{"command":"start_drag_teach","drag_teach":true}
+{"command":"stop_drag_teach","drag_teach":true}
+{"arm_state":{"err":[0],"joint":[-48790,304,74469,-147402,-114445,41649],"pose":[-168749,85497,429433,-2777,431,1842]},"state":"current_arm_state"}
+
+2026-07-08 19:15:55 - __main__ - INFO: 获取状态：成功，当前位姿为[-0.168749, 0.085497, 0.429433, -2.777, 0.431, 1.842]
+2026-07-08 19:15:55 - __main__ - INFO: ===采集第13次数据！
+2026-07-08 19:16:11 - __main__ - INFO: 检测到按键，keycode=115
+2026-07-08 19:16:11 - __main__ - INFO: response:{"command":"start_drag_teach","drag_teach":true}
+{"command":"stop_drag_teach","drag_teach":true}
+{"arm_state":{"err":[0],"joint":[-65401,27180,59154,-143153,-116081,44289],"pose":[-182887,213162,374319,-2850,679,1504]},"state":"current_arm_state"}
+
+2026-07-08 19:16:11 - __main__ - INFO: 获取状态：成功，当前位姿为[-0.182887, 0.213162, 0.374319, -2.85, 0.679, 1.504]
+2026-07-08 19:16:11 - __main__ - INFO: ===采集第14次数据！
+2026-07-08 19:17:05 - __main__ - INFO: 检测到按键，keycode=97
+2026-07-08 19:17:12 - __main__ - INFO: 检测到按键，keycode=115
+2026-07-08 19:17:12 - __main__ - INFO: response:{"command":"start_drag_teach","drag_teach":true}
+{"command":"stop_drag_teach","drag_teach":true}
+{"command":"start_drag_teach","drag_teach":true}
+{"command":"stop_drag_teach","drag_teach":true}
+{"command":"start_drag_teach","drag_teach":true}
+{"command":"stop_drag_teach","drag_teach":true}
+{"command":"start_drag_teach","drag_teach":true}
+{"command":"stop_drag_teach","drag_teach":true}
+{"arm_state":{"err":[0],"joint":[-132582,-46187,-59352,-17111,-110190,45608],"pose":[-235366,-197345,250333,2476,196,3092]},"state":"current_arm_state"}
+
+2026-07-08 19:17:12 - __main__ - INFO: 获取状态：成功，当前位姿为[-0.235366, -0.197345, 0.250333, 2.476, 0.196, 3.092]
+2026-07-08 19:17:12 - __main__ - INFO: ===采集第15次数据！
+2026-07-08 19:19:49 - __main__ - INFO: 读 eye_hand_data/data2026070802/1.jpg
+2026-07-08 19:19:49 - __main__ - INFO: 读 eye_hand_data/data2026070802/2.jpg
+2026-07-08 19:19:50 - __main__ - INFO: 读 eye_hand_data/data2026070802/3.jpg
+2026-07-08 19:19:50 - __main__ - INFO: 读 eye_hand_data/data2026070802/4.jpg
+2026-07-08 19:19:50 - __main__ - INFO: 读 eye_hand_data/data2026070802/5.jpg
+2026-07-08 19:19:50 - __main__ - INFO: 读 eye_hand_data/data2026070802/6.jpg
+2026-07-08 19:19:50 - __main__ - INFO: 读 eye_hand_data/data2026070802/7.jpg
+2026-07-08 19:19:50 - __main__ - INFO: 读 eye_hand_data/data2026070802/8.jpg
+2026-07-08 19:19:50 - __main__ - INFO: 读 eye_hand_data/data2026070802/9.jpg
+2026-07-08 19:19:50 - __main__ - INFO: 读 eye_hand_data/data2026070802/10.jpg
+2026-07-08 19:19:50 - __main__ - INFO: 读 eye_hand_data/data2026070802/11.jpg
+2026-07-08 19:19:50 - __main__ - INFO: 读 eye_hand_data/data2026070802/12.jpg
+2026-07-08 19:19:50 - __main__ - INFO: 读 eye_hand_data/data2026070802/13.jpg
+2026-07-08 19:19:50 - __main__ - INFO: 读 eye_hand_data/data2026070802/14.jpg
+2026-07-08 19:19:50 - __main__ - INFO: 读 eye_hand_data/data2026070802/15.jpg
+2026-07-08 19:19:51 - __main__ - INFO: 旋转矩阵是:
+ [[-0.02626938 -0.99964788  0.00374701]
+ [ 0.99920019 -0.0261442   0.03025652]
+ [-0.0301479   0.00453883  0.99953514]]
+2026-07-08 19:19:51 - __main__ - INFO: 平移向量是:
+ [[ 0.09392612]
+ [-0.0322434 ]
+ [ 0.00873646]]
+2026-07-08 19:19:51 - __main__ - INFO: 四元数是：
+ [-0.00921521  0.01214529  0.71623123  0.69769649]

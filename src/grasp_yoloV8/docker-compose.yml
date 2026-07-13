@@ -1,0 +1,17 @@
+services:
+  rm_humble:
+    image: rm_humble:ready
+    container_name: rm_humble
+    network_mode: host
+    privileged: true
+    environment:
+      - DISPLAY=${DISPLAY}
+      - QT_X11_NO_MITSHM=1
+    volumes:
+      - /tmp/.X11-unix:/tmp/.X11-unix
+      - /dev:/dev
+      - .:/workspace/RM
+    working_dir: /workspace/RM
+    stdin_open: true
+    tty: true
+    command: bash
